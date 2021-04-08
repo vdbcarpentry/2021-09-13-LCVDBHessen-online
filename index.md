@@ -283,6 +283,31 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
+p id="furtherInfo">
+  <strong>Further information</strong>:
+	
+Participation fee: 20 EUR for members of VDB, BIB or similar, 40 EUR for others. Please transfer your participation fee to VDB Landesverband Hessen, Kreissparkasse Tübingen, IBAN: DE75 6415 0020 0002 9739 77, BIC: SOLADES1TUB. 
+
+</p>
+
+
+<p id="contact">
+  <strong>Registration/Contact</strong>: Please register via email until 15.08.2021: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>. Maximum number of participants: 25.
+  
+</p>
+
+
+{% comment %}
+  ORGANIZATION
+
+  This block displays home institutions of instructors and helpers and acknowledges funding.
+{% endcomment %}
+
+<p id="organization">
+  	The workshop is jointly organized by VDB-Landesverband Hessen, Universitätsbibliothek Frankfurt, and instructors and helpers from Universitätsbibliothek Augsburg, Universitätsbibliothek Regensburg, and Deutsches Museum.
+</p>
+
+
 <hr/>
 <p>
 <a href="https://www.vdb-online.org"> 
@@ -305,6 +330,10 @@ Edit the text to match who can attend the workshop. For instance:
  </a>
  
  {% endcomment %}
+ 
+ <a href="https://www.uni-regensburg.de//">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Universit%C3%A4t_Regensburg_logo.svg" alt="Uni Regensburg" height="100"/>
+ </a>
  <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
  </a>
