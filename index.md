@@ -292,7 +292,7 @@ Edit the text to match who can attend the workshop. For instance:
 
  <a href="https://www.deutsches-museum.de">
    <img src="https://upload.wikimedia.org/wikipedia/de/8/86/Deutsches_Museum_Logo.svg" alt="Deutsches Museum" height="100"/>
- </a>
+ </a>&nbsp;&nbsp;
 
  
  <a href="https://www.uni-augsburg.de">
