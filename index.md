@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "VDB LV Hessen"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Library Carpentry, VDB LV Hessen"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
@@ -16,7 +16,7 @@ enddate: 2021-09-14        # machine-readable end date for the workshop in YYYY-
 instructor: ["Agnes Brauer", "Eva Bunge", "Evamaria Krause", "Luis Moßburger", "Adrian Pachzelt"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Michelle Kamolz", "Jakob Frohmann"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["a.brauer@ub-uni-frankfurt.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://hackmd.io/@abrauer/2021-09-13-LCVDBHessen-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -288,15 +288,12 @@ Edit the text to match who can attend the workshop. For instance:
 <a href="https://www.vdb-online.org"> 
    <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
  </a><br/>
- <a href="https://www.zbmed.de">
-   <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
- </a>
- 
- {% comment %}
+
+
  <a href="https://www.deutsches-museum.de">
    <img src="https://de.wikipedia.org/wiki/Deutsches_Museum#/media/Datei:Deutsches_Museum_Logo.svg" alt="Deutsches Museum" height="100"/>
  </a>
- {% endcomment %}
+
  
  <a href="https://www.uni-augsburg.de">
    <!-- <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_A/png/Uni_Aug_Logo_Basis_pos_A.png" alt="Augsburg University" height="100"/> -->
