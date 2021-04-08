@@ -36,7 +36,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 8< ============= For a workshop delete from here =============
 For a workshop please delete the following block until the next dashed-line
 {% endcomment %}
-
+{% comment %}
 
 <div class="alert alert-danger">
 This is the workshop template. Delete these lines and use it to
@@ -50,7 +50,7 @@ If this is a pilot workshop for a new lesson,
 remember to uncomment the `pilot_lesson_site`, `pilot_pre_survey`, and `pilot_post_survey`
 fields in `_config.yml`
 </div>
-
+{% endcomment %}
 {% comment %}
 8< ============================= until here ==================
 {% endcomment %}
