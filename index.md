@@ -304,6 +304,7 @@ Participation fee: 20 EUR for members of VDB, BIB or similar, 40 EUR for others.
 {% endcomment %}
 
 <p id="organization">
+  <strong>Organization:</strong>
   	The workshop is jointly organized by VDB-Landesverband Hessen, Universitätsbibliothek Frankfurt, and instructors and helpers from Universitätsbibliothek Augsburg, Universitätsbibliothek Regensburg, and Deutsches Museum.
 </p>
 
