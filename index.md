@@ -283,7 +283,7 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
-p id="furtherInfo">
+<p id="furtherInfo">
   <strong>Further information</strong>:
 	
 Participation fee: 20 EUR for members of VDB, BIB or similar, 40 EUR for others. Please transfer your participation fee to VDB Landesverband Hessen, Kreissparkasse Tübingen, IBAN: DE75 6415 0020 0002 9739 77, BIC: SOLADES1TUB. 
