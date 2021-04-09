@@ -13,7 +13,7 @@ humandate: "Sept 13-14, 2021"    # human-readable dates for the workshop (e.g., 
 humantime: "9:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-09-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-09-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Agnes Brauer", "Eva Bunge", "Evamaria Krause", "Luis Moßburger", "Adrian Pachzelt"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Agnes Brauer", "Eva Bunge", "Evamaria Krause", "Luis Moßburger", "Adrian Pachzelt", "Andre Pietsch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Michelle Kamolz", "Jakob Frohmann"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["a.brauer@ub-uni-frankfurt.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://hackmd.io/@abrauer/2021-09-13-LCVDBHessen-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -325,12 +325,12 @@ Participation fee: 20 EUR for members of VDB, BIB or similar, 40 EUR for others.
    <!-- <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_A/png/Uni_Aug_Logo_Basis_pos_A.png" alt="Augsburg University" height="100"/> -->
    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="100"/>
  </a>
- {% comment %}  
+
  <a href="https://www.uni-giessen.de/ub/de">
    <img src="https://www.uni-giessen.de/ub/bilder/ublogo/image" alt="UB Gießen" height="100"/>
  </a>
  
- {% endcomment %}
+
  
  <a href="https://www.uni-regensburg.de//">
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Universit%C3%A4t_Regensburg_logo.svg" alt="Uni Regensburg" height="100"/>
