@@ -332,9 +332,11 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
  
 
  
+{% comment%}
  <a href="https://www.uni-regensburg.de//">
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Universit%C3%A4t_Regensburg_logo.svg" alt="Uni Regensburg" height="100"/>
  </a>
+{% endcomment %}
  <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
  </a>
