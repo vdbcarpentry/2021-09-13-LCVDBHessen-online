@@ -326,9 +326,6 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="100"/>
  </a>
 
- <a href="https://www.uni-giessen.de/ub/de">
-   <img src="https://www.uni-giessen.de/ub/bilder/ublogo/image" alt="UB Gießen" height="100"/>
- </a>
  
 
  
